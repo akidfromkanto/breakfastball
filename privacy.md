@@ -33,4 +33,4 @@ Breakfast Ball is intended for users 13 years of age or older. We do not knowing
 
 ## Contact
 
-For privacy questions or to request deletion outside the app, email **privacy@breakfastball.app**.
+For privacy questions or to request deletion outside the app, email **devdaniels360@gmail.com**.
